@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+
+# Electron
+dist/
+out/
+*.log
+
+# SQLite database
+logs.db
+
+# IDE-specific files
+.vscode/
+.idea/
